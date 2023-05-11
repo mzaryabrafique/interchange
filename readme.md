@@ -1,5 +1,5 @@
 # Interchange module Rollup on Celestia Network
-**interchange** is a blockchain built using Cosmos SDK and Tendermint and created with [Ignite CLI](https://ignite.com/cli).
+**interchange** is a blockchain built using Cosmos SDK and Tendermint and created with [Ignite CLI](https://ignite.com/cli)
 
 Ignite CLI is a command line interface that allows users to quickly and easily create blockchain networks. By using Ignite CLI, we can quickly create a new blockchain without having to manually set up all the necessary components.
 
